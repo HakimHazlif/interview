@@ -29,8 +29,8 @@
 
 ### Scenario #1
 
-**Difficulty**: Medium
-**Interview Round**: System Design
+**Difficulty**: Medium<br>
+**Interview Round**: System Design<br>
 **Domain**: Database (Zero-Downtime Migration)
 
 #### Context
@@ -55,8 +55,8 @@ The table receives around 7,000 writes/minute. Historical records need a value, 
 
 ### Scenario #2
 
-**Difficulty**: Easy
-**Interview Round**: Coding + Discussion
+**Difficulty**: Easy<br>
+**Interview Round**: Coding + Discussion<br>
 **Domain**: Caching
 
 #### Context
@@ -81,8 +81,8 @@ Traffic spikes to 20,000 requests/min during flash sales. Database CPU reaches 9
 
 ### Scenario #3
 
-**Difficulty**: Hard
-**Interview Round**: System Design
+**Difficulty**: Hard<br>
+**Interview Round**: System Design<br>
 **Domain**: Database + Consistency
 
 #### Context
@@ -107,8 +107,8 @@ Two customers in different regions purchase the last item simultaneously.
 
 ### Scenario #4
 
-**Difficulty**: Medium
-**Interview Round**: Backend Design
+**Difficulty**: Medium<br>
+**Interview Round**: Backend Design<br>
 **Domain**: Retry & Idempotency
 
 #### Context
@@ -133,8 +133,8 @@ The frontend retries automatically, sometimes charging twice.
 
 ### Scenario #5
 
-**Difficulty**: Medium
-**Interview Round**: Frontend
+**Difficulty**: Medium<br>
+**Interview Round**: Frontend<br>
 **Domain**: React Performance
 
 #### Context
@@ -159,8 +159,8 @@ Scrolling becomes sluggish after implementing several filtering options.
 
 ### Scenario #6 (It Depends Scenario #1)
 
-**Difficulty**: Medium
-**Interview Round**: Behavioral + System Design
+**Difficulty**: Medium<br>
+**Interview Round**: Behavioral + System Design<br>
 **Domain**: Caching
 
 #### Context
@@ -185,8 +185,8 @@ Prices change multiple times per hour.
 
 ### Scenario #7
 
-**Difficulty**: Hard
-**Interview Round**: System Design
+**Difficulty**: Hard<br>
+**Interview Round**: System Design<br>
 **Domain**: DevOps
 
 #### Context
@@ -211,8 +211,8 @@ Only 3% of users are affected, but revenue begins dropping.
 
 ### Scenario #8
 
-**Difficulty**: Medium
-**Interview Round**: Backend/System Design
+**Difficulty**: Medium<br>
+**Interview Round**: Backend/System Design<br>
 **Domain**: Third-Party Integration
 
 #### Context
@@ -237,8 +237,8 @@ The provider experiences intermittent outages during peak shopping periods.
 
 ### Scenario #9 (Do Nothing Scenario #2)
 
-**Difficulty**: Hard
-**Interview** Round: Behavioral/System Design
+**Difficulty**: Hard<br>
+**Interview** Round: Behavioral/System Design<br>
 **Domain**: Database Optimization
 
 #### Context
@@ -263,8 +263,8 @@ Current query latency is 35 ms, well below the 100 ms SLA. However, write perfor
 
 ### Scenario #10
 
-**Difficulty**: Hard
-**Interview Round**: System Design
+**Difficulty**: Hard<br>
+**Interview Round**: System Design<br>
 **Domain**: Security
 
 #### Context
@@ -289,8 +289,8 @@ Attackers begin uploading malicious files disguised as images.
 
 ### Scenario #11
 
-**Difficulty**: Medium
-**Interview Round**: System Design
+**Difficulty**: Medium<br>
+**Interview Round**: System Design<br>
 **Domain**: Database (Replication Lag)
 
 #### Context
@@ -315,8 +315,8 @@ Replication lag can reach 2–5 seconds during peak hours. Product reports this 
 
 ### Scenario #12
 
-**Difficulty**: Medium
-**Interview Round**: Backend Design
+**Difficulty**: Medium<br>
+**Interview Round**: Backend Design<br>
 **Domain**: Background Jobs
 
 #### Context
@@ -341,8 +341,8 @@ Email provider latency occasionally reaches 8 seconds, slowing API responses.
 
 ### Scenario #13 (It Depends Scenario #2)
 
-**Difficulty**: Hard
-**Interview Round**: Behavioral + System Design
+**Difficulty**: Hard<br>
+**Interview Round**: Behavioral + System Design<br>
 **Domain**: Microservices
 
 #### Context
@@ -367,8 +367,8 @@ The current monolith serves 5,000 users with excellent uptime and a small engine
 
 ### Scenario #14
 
-**Difficulty**: Easy
-**Interview Round**: Coding
+**Difficulty**: Easy<br>
+**Interview Round**: Coding<br>
 **Domain**: Security (JWT)
 
 #### Context
@@ -393,8 +393,8 @@ A penetration test highlights potential XSS risks.
 
 ### Scenario #15
 
-**Difficulty**: Hard
-**Interview Round**: System Design
+**Difficulty**: Hard<br>
+**Interview Round**: System Design<br>
 **Domain**: Rate Limiting
 
 #### Context
@@ -419,8 +419,8 @@ Some customers accidentally create infinite retry loops, overwhelming the servic
 
 ### Scenario #16
 
-**Difficulty**: Medium
-**Interview Round**: Frontend
+**Difficulty**: Medium<br>
+**Interview Round**: Frontend<br>
 **Domain**: React State Management
 
 #### Context
@@ -445,8 +445,8 @@ Small updates cause unnecessary re-renders throughout the application.
 
 ### Scenario #17
 
-**Difficulty**: Medium
-**Interview Round**: Backend
+**Difficulty**: Medium<br>
+**Interview Round**: Backend<br>
 **Domain**: Deadlocks
 
 #### Context
@@ -471,8 +471,8 @@ Production logs show increasing deadlock errors.
 
 ### Scenario #18 (Do Nothing Scenario #3)
 
-**Difficulty**: Medium
-**Interview Round**: Behavioral
+**Difficulty**: Medium<br>
+**Interview Round**: Behavioral<br>
 **Domain**: Frontend Performance
 
 #### Context
@@ -497,8 +497,8 @@ No users have complained, Core Web Vitals remain healthy, and business metrics a
 
 ### Scenario #19
 
-**Difficulty**: Hard
-**Interview Round**: System Design
+**Difficulty**: Hard<br>
+**Interview Round**: System Design<br>
 **Domain**: API Versioning
 
 #### Context
@@ -523,8 +523,8 @@ A new feature requires changing the response format in a way that breaks existin
 
 ### Scenario #20
 
-**Difficulty**: Hard
-**Interview Round**: System Design
+**Difficulty**: Hard<br>
+**Interview Round**: System Design<br>
 **Domain**: Event-Driven Architecture
 
 #### Context
