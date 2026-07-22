@@ -758,7 +758,7 @@ Discussion should include:
 - Database ownership
 - "Microservices are not a goal"
 
-## A strong candidate challenges assumptions rather than blindly agreeing.
+A strong candidate challenges assumptions rather than blindly agreeing.
 
 ### Hints Of Scenario #14
 
