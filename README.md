@@ -25,6 +25,8 @@
 | [19](#Scenario-19) | API versioning                           | Hard       | System Design            |
 | [20](#Scenario-20) | Event-driven architecture                | Hard       | System Design            |
 
+---
+
 ### Scenario #1
 
 **Difficulty**: Medium
@@ -48,6 +50,8 @@ The table receives around 7,000 writes/minute. Historical records need a value, 
 #### Hints
 
 [Click here](#Hints-of-Scenario-1)
+
+---
 
 ### Scenario #2
 
@@ -73,6 +77,8 @@ Traffic spikes to 20,000 requests/min during flash sales. Database CPU reaches 9
 
 [Click here](#Hints-of-Scenario-2)
 
+---
+
 ### Scenario #3
 
 **Difficulty**: Hard
@@ -96,6 +102,8 @@ Two customers in different regions purchase the last item simultaneously.
 #### Hints
 
 [Click here](#Hints-of-Scenario-3)
+
+---
 
 ### Scenario #4
 
@@ -121,6 +129,8 @@ The frontend retries automatically, sometimes charging twice.
 
 [Click here](#Hints-of-Scenario-4)
 
+---
+
 ### Scenario #5
 
 **Difficulty**: Medium
@@ -144,6 +154,8 @@ Scrolling becomes sluggish after implementing several filtering options.
 #### Hints
 
 [Click here](#Hints-of-Scenario-5)
+
+---
 
 ### Scenario #6 (It Depends Scenario #1)
 
@@ -169,6 +181,8 @@ Prices change multiple times per hour.
 
 [Click here](#Hints-of-Scenario-6)
 
+---
+
 ### Scenario #7
 
 **Difficulty**: Hard
@@ -192,6 +206,8 @@ Only 3% of users are affected, but revenue begins dropping.
 #### Hints
 
 [Click here](#Hints-of-Scenario-7)
+
+---
 
 ### Scenario #8
 
@@ -217,6 +233,8 @@ The provider experiences intermittent outages during peak shopping periods.
 
 [Click here](#Hints-of-Scenario-8)
 
+---
+
 ### Scenario #9 (Do Nothing Scenario #2)
 
 **Difficulty**: Hard
@@ -240,6 +258,8 @@ Current query latency is 35 ms, well below the 100 ms SLA. However, write perfor
 #### Hints
 
 [Click here](#Hints-of-Scenario-9)
+
+---
 
 ### Scenario #10
 
@@ -265,6 +285,8 @@ Attackers begin uploading malicious files disguised as images.
 
 [Click here](#Hints-of-Scenario-10)
 
+---
+
 ### Scenario #11
 
 **Difficulty**: Medium
@@ -288,6 +310,8 @@ Replication lag can reach 2–5 seconds during peak hours. Product reports this 
 #### Hints
 
 [Click here](#Hints-of-Scenario-11)
+
+---
 
 ### Scenario #12
 
@@ -313,6 +337,8 @@ Email provider latency occasionally reaches 8 seconds, slowing API responses.
 
 [Click here](#Hints-of-Scenario-12)
 
+---
+
 ### Scenario #13 (It Depends Scenario #2)
 
 **Difficulty**: Hard
@@ -336,6 +362,8 @@ The current monolith serves 5,000 users with excellent uptime and a small engine
 #### Hints
 
 [Click here](#Hints-of-Scenario-13)
+
+---
 
 ### Scenario #14
 
@@ -361,6 +389,8 @@ A penetration test highlights potential XSS risks.
 
 [Click here](#Hints-of-Scenario-14)
 
+---
+
 ### Scenario #15
 
 **Difficulty**: Hard
@@ -384,6 +414,8 @@ Some customers accidentally create infinite retry loops, overwhelming the servic
 #### Hints
 
 [Click here](#Hints-of-Scenario-15)
+
+---
 
 ### Scenario #16
 
@@ -409,6 +441,8 @@ Small updates cause unnecessary re-renders throughout the application.
 
 [Click here](#Hints-of-Scenario-16)
 
+---
+
 ### Scenario #17
 
 **Difficulty**: Medium
@@ -432,6 +466,8 @@ Production logs show increasing deadlock errors.
 #### Hints
 
 [Click here](#Hints-of-Scenario-17)
+
+---
 
 ### Scenario #18 (Do Nothing Scenario #3)
 
@@ -457,6 +493,8 @@ No users have complained, Core Web Vitals remain healthy, and business metrics a
 
 [Click here](#Hints-of-Scenario-18)
 
+---
+
 ### Scenario #19
 
 **Difficulty**: Hard
@@ -480,6 +518,8 @@ A new feature requires changing the response format in a way that breaks existin
 #### Hints
 
 [Click here](#Hints-of-Scenario-19)
+
+---
 
 ### Scenario #20
 
@@ -510,6 +550,8 @@ How do you handle partial failures?
 #### Hints
 
 [Click here](#Hints-of-Scenario-20)
+
+---
 
 ---
 
