@@ -553,8 +553,6 @@ How do you handle partial failures?
 
 ---
 
----
-
 ## Hints For Scenarios
 
 ### Hints Of Scenario #1
@@ -572,6 +570,8 @@ Strong Answer Should Include
 - Validation queries
 - Handling NULL values temporarily
 
+---
+
 ### Hints Of Scenario #2
 
 Strong Answer Should Include
@@ -582,6 +582,8 @@ Strong Answer Should Include
 - Cache invalidation after product updates
 - Cache warming
 - Cache hit ratio monitoring
+
+---
 
 ### Hints Of Scenario #3
 
@@ -596,6 +598,8 @@ Strong Answer Should Include
 - Customer experience considerations
 - Compensation workflows
 
+---
+
 ### Hints Of Scenario #4
 
 Strong Answer Should Include
@@ -607,6 +611,8 @@ Strong Answer Should Include
 - Audit logs
 - Duplicate detection
 - Payment status endpoint
+
+---
 
 ### Hints Of Scenario #5
 
@@ -620,6 +626,8 @@ Strong Answer Should Include
 - Avoid unnecessary global state
 - Lighthouse/Web Vitals
 - React Profiler
+
+---
 
 ### Hints Of Scenario #6
 
@@ -637,7 +645,7 @@ Discussion should include:
 - CDN strategies
 - Business priorities
 
-A strong candidate recognizes that "it depends" on acceptable staleness.
+## A strong candidate recognizes that "it depends" on acceptable staleness.
 
 ### Hints Of Scenario #7
 
@@ -653,6 +661,8 @@ Strong Answer Should Include
 - Incident communication
 - Postmortem process
 
+---
+
 ### Hints Of Scenario #8
 
 Strong Answer Should Include
@@ -664,6 +674,8 @@ Strong Answer Should Include
 - Manual recovery tools
 - Customer communication
 - Monitoring API availability
+
+---
 
 ### Hints Of Scenario #9
 
@@ -681,6 +693,8 @@ Discussion should include:
 - Future scalability considerations
 - Avoiding unnecessary complexity
 
+---
+
 ### Hints Of Scenario #10
 
 Strong Answer Should Include
@@ -697,6 +711,8 @@ Strong Answer Should Include
 - Logging and alerting
 - Restrict executable content
 
+---
+
 ### Hints Of Scenario #11
 
 Strong Answer Should Include
@@ -709,6 +725,8 @@ Strong Answer Should Include
 - Trade-offs between latency and consistency
 - Why removing replicas may hurt scalability
 
+---
+
 ### Hints Of Scenario #12
 
 Strong Answer Should Include
@@ -720,6 +738,8 @@ Strong Answer Should Include
 - Idempotent workers
 - Monitoring queue depth
 - Separating critical from non-critical tasks
+
+---
 
 ### Hints Of Scenario #13
 
@@ -738,7 +758,7 @@ Discussion should include:
 - Database ownership
 - "Microservices are not a goal"
 
-A strong candidate challenges assumptions rather than blindly agreeing.
+## A strong candidate challenges assumptions rather than blindly agreeing.
 
 ### Hints Of Scenario #14
 
@@ -752,6 +772,8 @@ Strong Answer Should Include
 - CSRF protection
 - Logout invalidation strategy
 
+---
+
 ### Hints Of Scenario #15
 
 Strong Answer Should Include
@@ -764,6 +786,8 @@ Strong Answer Should Include
 - Burst handling
 - Monitoring abuse patterns
 
+---
+
 ### Hints Of Scenario #16
 
 - Strong Answer Should Include
@@ -774,6 +798,8 @@ Strong Answer Should Include
 - Component isolation
 - Memoization
 - State normalization
+
+---
 
 ### Hints Of Scenario #17
 
@@ -786,6 +812,8 @@ Strong Answer Should Include
 - Database diagnostics
 - Transaction boundaries
 - Avoiding long-running transactions
+
+---
 
 ### Hints Of Scenario #18
 
@@ -801,6 +829,8 @@ Discussion should include:
 - Monitoring real-user metrics (RUM)
 - Avoiding vanity metrics
 
+---
+
 ### Hints Of Scenario #19
 
 Strong Answer Should Include
@@ -812,6 +842,8 @@ Strong Answer Should Include
 - Sunset timelines
 - Monitoring client adoption
 - Communication with customers
+
+---
 
 ### Hints Of Scenario #20
 
